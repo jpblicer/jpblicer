@@ -1,4 +1,10 @@
-## Hi there 👋
+## <img src="https://web.archive.org/web/20020221004230/http://geocities.com:80/charlamagne.geo/TuxProgramming.gif"> Ruby on Rails Developer and studying Go
+
+Write readable, scalable, and meaningful code that brings real value.
+
+Exclusive Linux desktop user since 2010
+
+Always interested to discuss Linux, programming, hiring great people, and heavy metal.
 
 <!--
 **jpblicer/jpblicer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
