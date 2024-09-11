@@ -1,4 +1,4 @@
-## <img src="https://web.archive.org/web/20020221004230/http://geocities.com:80/charlamagne.geo/TuxProgramming.gif"> Ruby on Rails Developer and studying Go
+## <img src="https://web.archive.org/web/20020221004230/http://geocities.com:80/charlamagne.geo/TuxProgramming.gif"> Ruby on Rails Developer Studying Go
 
 Write readable, scalable, and meaningful code that brings real value.
 
