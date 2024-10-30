@@ -1,10 +1,21 @@
-## <img src="https://web.archive.org/web/20020221004230/http://geocities.com:80/charlamagne.geo/TuxProgramming.gif"> Ruby on Rails Developer Studying Go
+<h1 align="center"><img src="https://web.archive.org/web/20020221004230/http://geocities.com:80/charlamagne.geo/TuxProgramming.gif">jpblicer</h1>
 
-Write readable, scalable, and meaningful code that brings real value.
 
-Exclusive Linux desktop user since 2010
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,emacs,vim" />
+  </a>
+</p>
 
-Always interested to discuss Linux, programming, hiring great people, and heavy metal.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,javascript,python,go" />
+  </a>
+</p>
+
+
+
+
 
 <!--
 **jpblicer/jpblicer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
