@@ -1,9 +1,8 @@
 <h1 align="center"><img src="https://web.archive.org/web/20020221004230/http://geocities.com:80/charlamagne.geo/TuxProgramming.gif"></h1>
 
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,emacs,ruby,javascript,go" />
+    <img src="https://skillicons.dev/icons?i=linux,emacs" />
   </a>
 </p>
 
